@@ -1,0 +1,12 @@
+
+body{
+    background-color: white;
+}
+/*borda arredondada em pixels*/
+#img1{
+    border-radius: 8px;
+}
+/*borda arredondada em percentual*/
+#img2{
+    border-radius: 50%;
+}
